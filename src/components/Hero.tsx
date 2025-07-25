@@ -90,7 +90,7 @@ const Hero = () => {
               <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto p-0">
 
                 <img 
-                  src="/lovable-uploads/75f56a1f-3fd3-4343-a341-67a06b6f6cdb.png" 
+                  src="/lovable-uploads/Khushi_Resume_page-0001.jpg" 
                   alt="Khushi's Resume" 
                   className="w-full h-auto object-contain"
                 />
